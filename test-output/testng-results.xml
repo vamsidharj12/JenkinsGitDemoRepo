@@ -2,31 +2,31 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-20T17:46:55Z" name="Suite" finished-at="2023-12-20T17:47:50Z" duration-ms="54953">
+  <suite started-at="2023-12-20T22:52:31Z" name="Suite" finished-at="2023-12-20T22:52:56Z" duration-ms="24239">
     <groups>
     </groups>
-    <test started-at="2023-12-20T17:46:55Z" name="Test" finished-at="2023-12-20T17:47:50Z" duration-ms="54953">
+    <test started-at="2023-12-20T22:52:31Z" name="Test" finished-at="2023-12-20T22:52:56Z" duration-ms="24239">
       <class name="Automation.AWCTeamCenter.JenkinsGitDemoTest">
-        <test-method signature="test1()[pri:0, instance:Automation.AWCTeamCenter.JenkinsGitDemoTest@c7ba306]" started-at="2023-12-20T17:46:55Z" name="test1" finished-at="2023-12-20T17:47:06Z" duration-ms="11499" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test1 -->
-        <test-method signature="test2()[pri:0, instance:Automation.AWCTeamCenter.JenkinsGitDemoTest@c7ba306]" started-at="2023-12-20T17:47:06Z" name="test2" finished-at="2023-12-20T17:47:17Z" duration-ms="10870" status="PASS">
+        <test-method signature="test2()[pri:0, instance:Automation.AWCTeamCenter.JenkinsGitDemoTest@c7ba306]" started-at="2023-12-20T22:52:31Z" name="test2" finished-at="2023-12-20T22:52:44Z" duration-ms="12850" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method signature="test3()[pri:0, instance:Automation.AWCTeamCenter.JenkinsGitDemoTest@c7ba306]" started-at="2023-12-20T17:47:17Z" name="test3" finished-at="2023-12-20T17:47:28Z" duration-ms="10877" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test3 -->
-        <test-method signature="test4()[pri:0, instance:Automation.AWCTeamCenter.JenkinsGitDemoTest@c7ba306]" started-at="2023-12-20T17:47:28Z" name="test4" finished-at="2023-12-20T17:47:39Z" duration-ms="10828" status="PASS">
+        <test-method signature="test4()[pri:0, instance:Automation.AWCTeamCenter.JenkinsGitDemoTest@c7ba306]" started-at="2023-12-20T22:52:31Z" name="test4" finished-at="2023-12-20T22:52:56Z" duration-ms="24220" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test4 -->
-        <test-method signature="test5()[pri:0, instance:Automation.AWCTeamCenter.JenkinsGitDemoTest@c7ba306]" started-at="2023-12-20T17:47:39Z" name="test5" finished-at="2023-12-20T17:47:50Z" duration-ms="10864" status="PASS">
+        <test-method signature="test5()[pri:0, instance:Automation.AWCTeamCenter.JenkinsGitDemoTest@c7ba306]" started-at="2023-12-20T22:52:31Z" name="test5" finished-at="2023-12-20T22:52:44Z" duration-ms="12847" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test5 -->
+        <test-method signature="test1()[pri:0, instance:Automation.AWCTeamCenter.JenkinsGitDemoTest@c7ba306]" started-at="2023-12-20T22:52:31Z" name="test1" finished-at="2023-12-20T22:52:44Z" duration-ms="12816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test3()[pri:0, instance:Automation.AWCTeamCenter.JenkinsGitDemoTest@c7ba306]" started-at="2023-12-20T22:52:31Z" name="test3" finished-at="2023-12-20T22:52:44Z" duration-ms="12859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
       </class> <!-- Automation.AWCTeamCenter.JenkinsGitDemoTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
